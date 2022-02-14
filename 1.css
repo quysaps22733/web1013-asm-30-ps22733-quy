@@ -1,0 +1,230 @@
+body
+{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin: 0px;
+    position: absolute;
+}
+header
+{
+    height: 50px;
+    background-color:rgb(7, 7, 7);
+    width: 100%;
+    position: relative;
+    box-shadow: 0 0 0 2px rgb(105, 104, 104);
+    border-bottom: 3px rgb(161, 156, 156) solid;
+}
+header img
+{
+    position: relative;
+    float: left;
+}
+.bigbox
+{
+    background-color: rgb(231, 231, 169);
+    width: 450px;
+    height: 100%;
+    float: left;
+    position: relative;
+    margin-bottom: 80px;
+}
+.box>img
+{
+    height: 45px;
+    width: 45px;
+    border-radius: 100px;
+    border: 3px black;
+}
+article
+{
+    background-color:  rgb(116, 100, 74);
+    height: 2220px;
+    width: 100%;
+    position: relative;
+}
+.logo
+{
+    width: 75px;
+    height: 75px;
+    background-color: white;
+    margin:0 auto;
+    border:3px black solid;
+    border-bottom: 8px black solid;
+    float: left;
+    margin-left: 30px;
+    position: relative;
+    top: 50px;
+}
+.logo img
+{
+    height: 75px;
+    width: 75px;
+}
+.logo:hover
+{
+    top: 40px;
+    border: 3px yellow solid;
+}
+.box2
+{
+    width: 700px;
+    height: auto;
+}
+.block
+{
+    height: 200px;
+    width: 100%;
+    
+}
+.block1
+{
+    position: relative;
+    top: -12px;
+    height: 100%;
+    width: auto;
+}
+.block1>img
+{
+    position: relative;
+    top: -62px;
+    height: 100%;
+    width: 100%;
+}
+.boxbox
+{
+    height: 2200px;
+    width: 90%;
+    background-color: rgb(17, 14, 8);
+    border-radius: 5px ;
+    border: 3px rgb(161, 156, 156) solid;
+    position: relative;
+    top:10px;
+    margin:0 auto;
+}
+p
+{
+    left: 5px;
+    top: -13px;
+    position: relative;
+}
+footer
+{
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    bottom: -100px;
+    top: 0px;
+}
+.box-25{
+    text-align: center;
+    float: left;
+    padding: 5px;
+    padding-top: 25px;
+}
+.box4{
+    height: 220px;
+    width: 200px; 
+    box-shadow: 2px 2px 5px rgb(128, 128, 128);
+    border-radius:10px;
+    margin:0%;
+    background-color: white;
+    position: relative;
+}
+.box4:hover
+{
+    top: 10px;
+}
+.box4>img
+{
+    height: 50%;
+    width: 160px;
+    border-radius: 3px;
+    position: relative;
+    top: 10px;
+}
+.gia
+{
+    height: 30px;
+    width: 100%;
+    position: relative;
+    top: 15px;
+    color: red;
+}
+.thongtin
+{
+    height: 60px;
+    width: 100%;
+    position: relative;
+    top: 10px;
+    color: skyblue;
+}
+.a ul{
+    position:absolute;
+    display:none;
+    padding:0px;
+    margin:0px;
+    list-style:none;
+    border-radius:3px;
+    width:200px;
+    background-color:white;
+    box-shadow:0 0 1px gray;
+}
+article .bigbox
+{
+    background-color: rgb(131, 126, 126);
+    position: relative;
+    top: 70px;
+    height:520px;
+    width:1270px;
+    left:50px;
+    border-radius:10px;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+li
+{
+    top: 8px;
+    border-radius: 3px;
+    height: 25px;
+    width: 80px;
+    float: left;
+    position: relative;
+    margin-left: 25px;
+    background-color: white;
+    list-style-type: none;
+}
+ul
+{
+    width: 450px;
+    height: 100%;
+    float: left;
+    position: relative;
+    margin-bottom: 80px;
+}
+ul li:hover
+{
+    top: 15px;
+    background-color: red;
+    box-shadow: 0 1px 5px red;
+}
+ul li  ul li
+{
+    display: none;
+}
+footer>h4
+{
+    color: white;
+    position: relative;
+    left: 30px;
+}
+footer>h2
+{
+    color: white;
+    text-align:center;
+}
+
